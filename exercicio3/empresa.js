@@ -23,6 +23,10 @@ const empresa = {
             "projetos": ["Campanha Digital", "Redes Sociais", "SEO"]
         }
     ],
+    "quadro":
+    {
+        "Total": "45 funcionarios"
+    },
     "contato": {
         "email": "contato@techdev.com.br",
         "telefone": {
@@ -32,5 +36,6 @@ const empresa = {
     }
 };
 
+console.log(empresa)
 
-quantidade funcionarios
+// lista de projetos nao apareco no terminal, mas abrindo pelo browser esta correto
