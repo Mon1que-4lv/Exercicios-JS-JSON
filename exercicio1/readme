@@ -1,0 +1,9 @@
+1: Análise de JSON simples
+
+Objetivo: Entender a estrutura básica de um objeto JSON e como acessar seus valores.
+
+Tarefas:
+Acesse e exiba o nome do usuário
+Verifique se o usuário está ativo
+Altere o perfil para "desenvolvedor frontend"
+Adicione uma nova propriedade "linguagensFavoritas" como array com os valores: "JavaScript", "HTML", "CSS"

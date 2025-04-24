@@ -1,0 +1,19 @@
+Praticar a conversão entre strings JSON e objetos JavaScript.
+
+Pegue a string JSON abaixo e converta para um objeto JavaScript
+Acesse o nome do cliente e o item do segundo pedido
+Adicione um novo pedido com id:3 e item:"Monitor"
+Converta o objeto modificado de volta para string JSON
+
+
+Exemplo:
+// String JSON
+const jsonString = '{"produto":"Notebook","preco":3500,"estoque":true}';
+// Convertendo para objeto JavaScript
+const objeto = JSON.parse(jsonString);
+console.log(objeto.produto); // Exibe: Notebook
+// Modificando o objeto
+objeto.preco = 3200;
+// Convertendo de volta para string JSON
+const novoJsonString = JSON.stringify(objeto);
+console.log(novoJsonString);

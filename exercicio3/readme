@@ -1,0 +1,10 @@
+Objetivo: Praticar navegação em estruturas JSON mais complexas e aninhadas.
+
+
+Tarefas:
+
+Exiba o endereço completo da sede (cidade, endereço e CEP)
+Liste todos os projetos do departamento de Desenvolvimento
+Qual o número total de funcionários somando todos os departamentos?
+Acesse e exiba o telefone de suporte da empresa
+Adicione um novo projeto "SEO" ao departamento de Marketing
