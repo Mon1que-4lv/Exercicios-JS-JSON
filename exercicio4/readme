@@ -1,0 +1,9 @@
+Objetivo: Utilizar o método filter() para encontrar itens específicos em um array de objetos.
+
+Tarefas:
+
+Encontre todos os produtos da categoria "Eletrônicos"
+Filtre os produtos com preço menor que 100
+Encontre produtos com estoque baixo (menor que 15)
+Filtre produtos que sejam da categoria "Calçados" E custem mais de 100
+Encontre produtos cujo nome contenha a palavra "fone" (case insensitive)
