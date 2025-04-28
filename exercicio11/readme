@@ -1,0 +1,7 @@
+Objetivo: Criar funções para verificar se uma estrutura JSON é válida.
+
+Tarefas:
+
+Crie uma função que verifique se um objeto produto possui todos os campos obrigatórios (id, nome, preco, categoria)
+Valide se os valores dos campos são do tipo correto (ex: preço deve ser número)
+Crie uma função que valide uma estrutura de venda completa (cliente, data, produtos)

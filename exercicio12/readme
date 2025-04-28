@@ -1,0 +1,8 @@
+Objetivo: Praticar o consumo e processamento de dados de APIs JSON.
+
+Tarefas:
+
+Faça uma requisição para a API de exemplo: https://jsonplaceholder.typicode.com/users
+Exiba uma lista com nome, email e cidade de cada usuário
+Crie uma função de busca que filtre usuários por nome ou email
+Faça uma requisição para https://jsonplaceholder.typicode.com/posts e combine com os dados de usuários para mostrar o título dos posts de cada usuário

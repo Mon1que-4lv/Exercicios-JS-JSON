@@ -1,0 +1,8 @@
+Objetivo: Extrair informações específicas de estruturas JSON complexas.
+
+Tarefas:
+
+Crie uma lista de todos os produtos vendidos (sem repetição)
+Gere um relatório com o total gasto por cada cliente
+Crie uma função que encontre todas as vendas que contenham um produto específico
+Gere uma lista com a data da primeira e última compra de cada cliente
