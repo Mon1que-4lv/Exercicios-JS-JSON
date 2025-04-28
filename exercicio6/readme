@@ -1,0 +1,8 @@
+Objetivo: Utilizar o método sort() para ordenar arrays de objetos.
+
+Tarefas (usando os dados de produtos dos exercícios anteriores):
+
+Ordene os produtos por preço (do mais barato ao mais caro)
+Ordene os produtos por nome em ordem alfabética
+Ordene os produtos do maior estoque para o menor estoque
+Ordene os produtos primeiro por categoria (ordem alfabética) e depois por preço (crescente)

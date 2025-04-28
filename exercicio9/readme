@@ -1,0 +1,7 @@
+Objetivo: Usar reduce() para agrupar dados com base em uma propriedade.
+
+Tarefas (usando os dados de vendas do exercício anterior):
+
+Agrupe as vendas por cliente
+Crie um objeto que mostre o total vendido por mês
+Agrupe os produtos vendidos por categoria (você precisará adicionar categorias aos produtos)

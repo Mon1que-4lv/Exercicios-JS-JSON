@@ -1,0 +1,9 @@
+Objetivo: Calcular valores estatísticos de uma coleção de objetos.
+
+Tarefas (usando os dados de produtos):
+
+Calcule o valor total de todos os produtos em estoque (preço × quantidade)
+Encontre o produto mais caro e o mais barato
+Calcule o preço médio dos produtos por categoria
+Conte quantos produtos existem em cada categoria
+Qual categoria tem o maior valor total em estoque?

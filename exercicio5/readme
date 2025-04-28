@@ -1,0 +1,9 @@
+Objetivo: Usar o método map() para transformar dados em outro formato.
+
+
+Tarefas (usando os dados de produtos do exercício anterior):
+
+Crie um novo array apenas com os nomes dos produtos
+Gere uma lista formatada de produtos com nome e preço (ex: "Smartphone - R$ 1.500,00")
+Aplique 10% de desconto em todos os preços e crie um novo array com os produtos atualizados
+Crie um novo formato que inclua apenas id, nome e valorTotal (preço × estoque)

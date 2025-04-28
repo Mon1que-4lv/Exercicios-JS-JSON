@@ -1,0 +1,8 @@
+Objetivo: Criar funções que processam e transformam dados JSON.
+
+Tarefas:
+
+Crie uma função calcularTotalVenda(venda) que retorne o valor total de uma venda
+Crie uma função resumoVendas(vendas) que retorne um array com { id, cliente, data, totalVenda }
+Crie uma função buscaVendasPorCliente(vendas, nomeCliente) que retorne todas as vendas de um cliente
+Crie uma função produtosMaisVendidos(vendas) que liste os produtos mais vendidos (somando quantidades)
